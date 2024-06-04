@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/aspirin-ccu002_02-antiplatelet-medication---primary.py
+inputModule3:
+  class: File
+  path: python/orodispersible-ccu002_02-antiplatelet-medication---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-suspension---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-ticagrelor---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-modifiedrelease---primary.py
+inputModule7:
+  class: File
+  path: python/efient-ccu002_02-antiplatelet-medication---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-100mg---primary.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-tablet---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-retard---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-clopidogrel---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-300mg---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-gastroresistant---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-plavix---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-liquid---primary.py
+inputModule16:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-sugar---primary.py
+inputModule17:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-solution---primary.py
+inputModule18:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-prasugrel---primary.py
+inputModule19:
+  class: File
+  path: python/brilique-ccu002_02-antiplatelet-medication---primary.py
+inputModule20:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-dipyridamole---primary.py
+inputModule21:
+  class: File
+  path: python/ccu002_02-antiplatelet-medication-capsule---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
